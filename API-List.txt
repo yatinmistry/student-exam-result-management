@@ -1,0 +1,28 @@
+User Register
+
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=users/register&username=&password=&name=&email=&code=
+
+
+User Login 
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=users/login&username=&password=
+
+User Logout
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=users/logout&user_token=
+
+Student List
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=student/list&user_token=
+
+Student Add
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=student/add&user_token=&name=&age=&maths_marks=&science_marks=&english_marks=
+
+Student Edit
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=student/edit&user_token=114954605067660&id=5
+
+Student Summary
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=student/summary&user_token=
+
+Session Check
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=users/session
+
+
+HR - Email : sangeetap@prdxn.com
