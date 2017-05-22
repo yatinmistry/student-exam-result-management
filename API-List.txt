@@ -16,7 +16,7 @@ Student Add
 http://localhost/student_exam_reult_management/frontend/web/index.php?r=student/add&user_token=&name=&age=&maths_marks=&science_marks=&english_marks=
 
 Student Edit
-http://localhost/student_exam_reult_management/frontend/web/index.php?r=student/edit&user_token=114954605067660&id=5
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=student/edit&user_token=&id=&name=&age=&maths_marks=&science_marks=&english_marks=
 
 Student Summary
 http://localhost/student_exam_reult_management/frontend/web/index.php?r=student/summary&user_token=
