@@ -1,3 +1,37 @@
+API List
+=====================================
+
+Github link :: https://github.com/yatinmistry/student-exam-result-management
+
+Database : student_management.sql find root directory
+
+User Register
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=users/register&username=&password=&name=&email=&code=
+
+
+User Login 
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=users/login&username=&password=
+
+User Logout
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=users/logout&user_token=
+
+Student List
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=student/list&user_token=
+
+Student Add
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=student/add&user_token=&name=&age=&maths_marks=&science_marks=&english_marks=
+
+Student Edit
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=student/edit&user_token=&id=&name=&age=&maths_marks=&science_marks=&english_marks=
+
+Student Summary
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=student/summary&user_token=
+
+Session Check
+http://localhost/student_exam_reult_management/frontend/web/index.php?r=users/session
+
+
+
 Yii 2 Advanced Project Template
 ===============================
 
